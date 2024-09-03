@@ -1,0 +1,31 @@
+/*comentantios (atalho para comentarios: crtl + K crtl + C) */ 
+
+*{ 
+    width:auto;
+    height: auto;
+    background-color: tan;
+}
+
+body{
+    width: 98%;
+    height: 100%;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+}
+.tabela{
+    text-align: left;
+}
+.currilo{
+    text-align: center;
+    font-style: italic;
+    font-size: xx-large;
+}
+.Cards img{
+    margin:20px;
+    width: 200px;
+    height:200px;
+    border-radius: 360px;
+}
